@@ -3,7 +3,7 @@ You'll need *8* terminals for this! Sorry for the hassle.
 
 ```sh
 # First get the configs and cd to the directory:
-curl https://github.com/schmichael/1792-test/archive/2016.10.10.tar.gz | tar xz
+curl -L https://github.com/schmichael/1792-test/archive/2016.10.10.tar.gz | tar xz
 cd 1792-test-2016.10.10
 
 # Terminal 1:
