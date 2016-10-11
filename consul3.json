@@ -1,0 +1,8 @@
+{
+	"datacenter": "dc1",
+	"node_name": "rusty3",
+	"bind_addr":  "127.0.0.3",
+	"client_addr":  "127.0.0.3",
+	"data_dir": "/tmp/consul3",
+	"server": false
+}

@@ -1,0 +1,9 @@
+{
+	"datacenter": "dc1",
+	"node_name": "rusty-server",
+	"bind_addr":  "127.0.1.1",
+	"client_addr":  "127.0.1.1",
+	"data_dir": "/tmp/consulsrv",
+	"bootstrap_expect": 1,
+	"server": true
+}
